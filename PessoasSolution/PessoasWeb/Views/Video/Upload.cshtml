@@ -1,0 +1,88 @@
+﻿@using PessoasWeb.Models
+@model Video
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+    <title>Upload</title>
+    <!-- Bootstrap core CSS -->
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/SimpleSideBar.css" rel="stylesheet">
+    <script src="~/scripts/jquery-3.2.1.js"></script>
+    <script src="~/scripts/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <form class="form-signin" action="~/Video/Upload" method="post">
+            <h2 class="form-signin-heading">Faça seu upload</h2>
+            <label for="inputEmail" class="sr-only">Nome do vídeo</label>
+            <input type="text" id="inputEmail" class="form-control" placeholder="Nome do vídeo" required autofocus>
+            <label for="file"> Escolha um arquivo: </label>
+            <input type="file" accept=".mp4 , .ogg , .webm , .3gp , .avi , .wmv , .wav , .mkv" name="file" required />
+            <br />
+            <label for="file"> Escolha uma categoria: </label>
+            <select class="form-control" required>
+                <option value=""> Categorias...</option>
+                <option value="comedia"> Comédia</option>
+                <option value="esportes"> Esportes</option>
+                <option value="musicas">Músicas</option>
+                <option value="animais"> Animais</option>
+                <option value="cinema"> Cinema e TV</option>
+                <option value="danca">Dança</option>
+                <option value="games"> Games</option>
+                <option value="infantil"> Infantil</option>
+                <option value="terror"> Terror</option>
+                <option value="tutoriais"> Tutoriais</option>
+            </select>
+            <br />
+            @*<button class="btn btn-lg btn-primary btn-block" type="submit">Upload</button>*@
+        </form>
+    </div>
+        @*<div class="form-group">
+            <div class="col-xs-12">
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <p class="help-block">Formats accepted .mp4, .ogg and .avi.</p>
+                    <p class="help-block">Picture must have less than 2 MiB</p>
+                    @Html.TextBoxFor(m => m.Nome, new { @type = "file", @placeholder = "Upload", @required = "required", @accept = ".mp4, .ogg, .avi" })
+                </div>
+            </div>
+        </div>*@
+        <div class="form-group col-lg-12">
+            <br />
+            <br />
+            <button id="cor-fonte" type="submit" class="btn cor-fonte efeito-fade-navbar center-block"><span class="glyphicon glyphicon-ok"></span>&nbsp; Upload</button>
+        </div>
+    @*<script>
+    $('#file_upload').fileupload({
+    dataType: 'json',
+    url: '/videos/UploadFiles',
+    formData : {
+    nome: 'this is the name of the movie',
+    tipo: 'movie'
+    },
+    progressall: function (e, data) {
+    $(this).find('.progressbar').progressbar({ value: parseInt(data.loaded / data.total * 100, 10) });
+    },
+    done: function (e, data) {
+    $('#file_name').html(data.result.name);
+    $('#file_type').html(data.result.type);
+    $('#file_size').html(data.result.size);
+    $('#file_name').css({ display: 'none' });
+    $('#file_type').css({ display: 'none' });
+    $('#file_size').css({ display: 'none' });
+    //visibility: hidden;
+    $(this).find('.progressbar').progressbar({ value: 100 });
+    }
+    });
+    </script>*@
+</body>
+</html>

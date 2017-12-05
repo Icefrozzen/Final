@@ -1,0 +1,328 @@
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\ApplicationInsights.config
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\csc.exe
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\vbc.exe
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll.config
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\PessoasWeb.pdb
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Http.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Razor.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Razor.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Http.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.xml
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.csprojResolveAssemblyReference.cache
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.dll
+c:\users\maqlab\documents\visual studio 2015\Projects\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.pdb
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\ApplicationInsights.config
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\csc.exe
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\vbc.exe
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll.config
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\PessoasWeb.pdb
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Http.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Razor.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Razor.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Http.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.dll
+C:\Users\MAQLAB\Desktop\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.pdb
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\ApplicationInsights.config
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\csc.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\vbc.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll.config
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.pdb
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Razor.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Razor.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.pdb
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\ApplicationInsights.config
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\csc.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\vbc.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll.config
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.pdb
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Razor.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Razor.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.csprojResolveAssemblyReference.cache
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.dll
+C:\Users\MAQLAB\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.pdb
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\ApplicationInsights.config
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\csc.exe
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\vbc.exe
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll.config
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\PessoasWeb.pdb
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Razor.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Razor.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Net.Http.Formatting.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.dll
+C:\Users\Marcus\Documents\Visual Studio 2015\Projects\PessoasSolution\PessoasSolution\PessoasSolution\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.pdb
+<<<<<<< HEAD
+C:\Users\Rafael H\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Rafael H\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.dll
+C:\Users\Rafael H\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.pdb
+=======
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\ApplicationInsights.config
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\csc.exe
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\vbc.exe
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll.config
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\PessoasWeb.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\PessoasWeb.pdb
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Http.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Razor.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Razor.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Helpers.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Mvc.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\Newtonsoft.Json.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Http.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.dll
+C:\Users\Marcus\Documents\GitHub\vidnu\PessoasSolution\PessoasWeb\obj\Debug\PessoasWeb.pdb
+>>>>>>> 8f3cb28a3653f7b8e7b885236f0b36c379d1c3f2

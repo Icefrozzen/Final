@@ -1,0 +1,135 @@
+﻿@model IEnumerable<PessoasWeb.Models.Pessoa>
+@{
+    Layout = null;
+    ViewBag.Title = "Manager User";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="SimpleSideBar.css">
+    <script src="video-js/video.js"></script>
+    <title>Vid.NU</title>
+
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="~/Content/SimpleSideBar.css" rel="stylesheet">
+
+</head>
+<body>
+    <div id="wrapper">
+
+        <!-- /#sidebar-wrapper -->
+        <!-- Page Content -->
+        <div id="site-wrapper">
+            <div class="container-fluid">
+                <nav class="navbar navbar-inverse navbar-fixed-top">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="#">Vid.NU</a>
+                        </div>
+
+                        <div id="navbar" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav navbar-left">
+                                <li><a href="../indexnotlog.html">Home</a></li>
+                                <li>
+                                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Categorias </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#"><p class="fa fa-microphone"></p> Comédia</a></li>
+                                        <li><a href="#"><p class="fa fa-futbol-o"></p> Esportes </a></li>
+                                        <li><a href="#"><p class="fa fa-headphones"></p> Músicas</a></li>
+                                        <li><a href="#"><p class="fa fa-bug"></p> Animais</a></li>
+                                        <li><a href="#"><p class="fa fa-film"></p> Cinema e TV</a></li>
+                                        <li><a href="#"><p class="fa fa-music"></p> Dança</a></li>
+                                        <li><a href="#"><p class="fa fa-gamepad"></p> Games</a></li>
+                                        <li><a href="#"><p class="fa fa-child"></p> Infantil</a></li>
+                                        <li><a href="#"><p class="fa fa-frown-o fa-rotate-180"></p> Terror</a></li>
+                                        <li><a href="#"><p class="fa fa-tumblr"></p> Tutoriais</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-user"> </span> </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="verperfil.html"><p> </p>Ver perfil</a></li>
+                                        <li class="divider"> </li>
+                                        <li><a href="#"><p class="glyphicon glyphicon-time"></p>Assistir Depois</a></li>
+                                        <li><a href="#"><p class="glyphicon glyphicon-envelope"></p>Mensagens</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="contato.html">Contato</a></li>
+                            </ul>
+                            <form class="navbar-form navbar-left" action="upload.html">
+                                <input type="text" class="form-control" id="md" placeholder="Procurar...">
+                                <button type="submit" class="btn btn-danger"> Upload </button>
+                            </form>
+                            <form class="navbar-form navbar-right" action="">
+                                <button type="submit" class="btn btn-primary"> Sair</button>
+
+                            </form>
+                        </div>
+                    </div>
+                </nav>
+
+            </div>
+        </div>
+    </div>
+
+    <button class="btn btn-default" style="position: absolute; margin-top: -3%; right: 10px;" data-toggle="modal" data-target="#AddAdmin"><i class="fa fa-plus" aria-hidden="true"></i> Admins</button>
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Firstname</th>
+                    <th>Email</th>
+                    <th>Data de Nascimento</th>
+                    <th>Senha</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in ViewBag.ListaUser)
+            {
+                    <tr>
+                        <td>@p.Nome</td>
+                        <td>@p.Email</td>
+                        <td>@p.DataNascimento.ToString("MM/dd/yyyy")</td>
+                        <td>@p.Senha</td>
+                        <td>
+                            <div>
+                                <a href="~/Pessoa/Delete?id=@p.PessoaId" class="btn btn-danger" >
+                                    DELETE
+                                </a>
+                                <a href="~/Pessoa/Update" class="btn btn-danger">
+                                    UPDATE
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+
+    <script src="~/scripts/Jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/scripts/bootstrap.min.js"></script>
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>

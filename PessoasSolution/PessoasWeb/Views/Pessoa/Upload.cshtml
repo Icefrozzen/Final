@@ -1,0 +1,50 @@
+﻿@model IEnumerable<PessoasWeb.Models.Pessoa>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+    <title>Upload</title>
+    <!-- Bootstrap core CSS -->
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Content/SimpleSideBar.css" rel="stylesheet">
+    <script src="~/scripts/jquery-3.2.1.js"></script>
+    <script src="~/scripts/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <form class="form-signin" action="">
+            <h2 class="form-signin-heading">Make Your Upload</h2>
+            <label for="inputEmail" class="sr-only">Vídeo Name</label>
+            <input type="text" id="inputEmail" class="form-control" placeholder="Vídeo Name" required autofocus>
+            <label for="file"> Choose a File: </label>
+            <input type="file" accept=".mp4 , .ogg , .webm , .3gp , .avi , .wmv , .wav , .mkv" name="file" required />
+            <br />
+            <label for="file"> Choose a Category: </label>
+            <select class="form-control" required>
+                <option value=""> Categories...</option>
+                <option value="comedia"> Comedy</option>
+                <option value="esportes"> Sports</option>
+                <option value="animais"> Animals</option>
+                <option value="danca">Dance</option>
+                <option value="games"> Games</option>
+            </select>
+            <br />
+            <button class="btn btn-lg btn-primary btn-block" type="submit">Upload</button>
+        </form>
+    </div>
+
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>

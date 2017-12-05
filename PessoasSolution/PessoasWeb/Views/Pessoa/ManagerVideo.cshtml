@@ -1,0 +1,112 @@
+﻿@model IEnumerable<PessoasWeb.Models.Pessoa>
+@{
+    Layout = null;
+    ViewBag.Title = "Manager Video";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="SimpleSideBar.css">
+    <script src="video-js/video.js"></script>
+    <title>Vid.NU</title>
+
+    <link href="../Content/bootstrap.min.css" rel="stylesheet">
+
+    <link href="~/Content/SimpleSideBar.css" rel="stylesheet">
+
+</head>
+<body>
+    <div id="site-wrapper">
+        <div class="container-fluid">
+
+            <nav class="navbar navbar-inverse navbar-default navbar-fixed-top ">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="~/Pessoa/Dashboard">Vid.NU</a>
+                    </div>
+
+                    <div id="navbar" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-left">
+                            <li><a href="/Pessoa/Dashboard">Home</a></li>
+                            <li>
+                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Categories </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="#"><p class="fa fa-microphone"></p> Comedy</a></li>
+                                    <li><a href="#"><p class="fa fa-futbol-o"></p> Sports </a></li>
+                                    <li><a href="#"><p class="fa fa-bug"></p> Animals </a></li>
+                                    <li><a href="#"><p class="fa fa-music"></p> Dance</a></li>
+                                    <li><a href="#"><p class="fa fa-gamepad"></p> Games</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">Suport</a></li>
+
+                            <li>
+                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-user"> </span> </a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="#"><p> </p>View Profile</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <form class="navbar-form navbar-left" action="">
+                            <a href="/Pessoa/Upload" type="submit" class="btn btn-danger"> Upload </a>
+                        </form>
+
+                        <form class="navbar-form navbar-right">
+                            <a href="/Pessoa/Entrar" ype="submit" class="btn btn-primary"> Log In</a>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <button class="btn btn-default" style="position: absolute; margin-top: -3%; right: 10px;" data-toggle="modal" data-target="#AddAdmin"><i class="fa fa-plus" aria-hidden="true"></i> Admins</button>
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var p in ViewBag.ListaVideo)
+            {
+                    <tr>
+                        <td>@p.Nome</td>
+                        <td>
+                            <div>
+                                <a href="~/Pessoa/Delete?id=@p.IdVideo" class="btn btn-danger">
+                                    DELETE
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+
+    <script src="~/scripts/Jquery.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/scripts/bootstrap.min.js"></script>
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>

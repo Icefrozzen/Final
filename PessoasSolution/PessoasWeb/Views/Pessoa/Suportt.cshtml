@@ -1,0 +1,160 @@
+﻿@model IEnumerable<PessoasWeb.Models.Pessoa>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Div.NU</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="~/Content/SimpleSideBar.css" rel="stylesheet">
+    <link href="../font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+
+        <!-- /#sidebar-wrapper -->
+        <!-- Page Content -->
+
+        <div id="site-wrapper">
+            <div class="container-fluid">
+
+                <nav class="navbar navbar-inverse navbar-fixed-top">
+                    <div class="container-fluid">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="#">Vid.NU</a>
+                        </div>
+
+
+                        <div id="navbar" class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav navbar-left">
+                                <li><a href="../indexnotlog.html">Home</a></li>
+                                <li>
+                                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Categorias </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#"><p class="fa fa-microphone"></p> Comédia</a></li>
+                                        <li><a href="#"><p class=" fa fa-futbol-o"></p> Esportes </a></li>
+                                        <li><a href="#"><p class="fa fa-headphones"></p> Músicas</a></li>
+                                        <li><a href="#"><p class="fa fa-bug"></p> Animais</a></li>
+                                        <li><a href="#"><p class="fa fa-film"></p> Cinema e TV</a></li>
+                                        <li><a href="#"><p class="fa fa-music"></p> Dança</a></li>
+                                        <li><a href="#"><p class="fa fa-gamepad"></p> Games</a></li>
+                                        <li><a href="#"><p class="fa fa-child"></p> Infantil</a></li>
+                                        <li><a href="#"><p class="fa fa-frown-o fa-rotate-180"></p> Terror</a></li>
+                                        <li><a href="#"><p class="fa fa-tumblr"></p> Tutoriais</a></li>
+
+                                    </ul>
+                                </li>
+
+
+
+                                <li>
+                                    <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-user"> </span> </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="verperfil.html"><p> </p>Ver perfil</a></li>
+                                        <li class="divider"> </li>
+                                        <li><a href="#"><p class="glyphicon glyphicon-time"></p>Assistir Depois</a></li>
+                                        <li><a href="#"><p class="glyphicon glyphicon-envelope"></p>Mensagens</a></li>
+
+                                    </ul>
+                                </li>
+                                <li><a href="contato.html">Contato</a></li>
+
+                            </ul>
+                            <form class="navbar-form navbar-left" action="upload.html">
+                                <input type="text" class="form-control" id="md" placeholder="Procurar...">
+
+                                <button type="submit" class="btn btn-danger"> Upload </button>
+                            </form>
+
+                            <form class="navbar-form navbar-right" action="../indexnotlog.html">
+
+                                <button type="submit" class="btn btn-primary"> Sair</button>
+
+
+
+                            </form>
+                        </div>
+                    </div>
+                </nav>
+
+
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <div class="container2">
+
+        <div class="row">
+
+            <div class="col-lg-12">
+                <h1 class="page-header">Suport</h1>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-xs-6 ">
+
+                <ul>
+                    <li>     <img class="img-responsive" src="http://placehold.it/300x300">   </li>
+                    <li> <h5>Nome dos desenvolvedores: </h5><p class="seemore"></p> </li>
+                    <li> <h5>E-mail: </h5> <p class="seemore"> vidnuvideos@gmail.com </p> </li>
+                </ul>
+            </div>
+
+
+
+        </div>
+
+
+    </div>
+    <!-- jQuery -->
+    <script src="~/Content/Jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/Content/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+</body>
+
+</html>
+
+
